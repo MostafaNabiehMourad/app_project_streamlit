@@ -1,5 +1,3 @@
-Certainly! Below is a simple example of a README file you can use for your GitHub repository. Adjust it according to your needs:
-
 ```markdown
 # Project 4 Streamlit App
 
